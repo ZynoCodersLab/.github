@@ -1,12 +1,12 @@
 <div align="center">
 
-# 🏛️ ZynoCodex
+# 🏛️ ZynoCoders Lab
 
 ### Build systems. Solve problems. Engineer the future.
 
-[![Website](https://img.shields.io/badge/Website-zynocodex.tech-4B5563?style=flat-square)](https://zynocodex.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZynoCodex-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/zynocodex)
-[![X](https://img.shields.io/badge/X-%40zynocodex-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zynocodex)
+[![Website](https://img.shields.io/badge/Website-zynocoderslab.tech-4B5563?style=flat-square)](https://zynocodex.tech)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZynoCoders-Lab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/zynocodex)
+[![X](https://img.shields.io/badge/X-%40zynocoders-Lab-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zynocodex)
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### 📐 About Us
 
-ZynoCodex is a software development organization built around one idea: good software starts with good architecture. We partner with startups and enterprises to design, build, and scale systems that hold up under real-world load — not just demos.
+ZynoCoders Lab is a software development organization built around one idea: good software starts with good architecture. We partner with startups and enterprises to design, build, and scale systems that hold up under real-world load — not just demos.
 
 We're engineers first. Every engagement starts with a clear architectural plan before a single line of production code gets written.
 
@@ -68,7 +68,7 @@ We focus on building systems that are:
 
 ## Collaboration
 
-ZynoCodex is built around collaboration, continuous learning, and engineering craftsmanship.
+ZynoCoders Lab is built around collaboration, continuous learning, and engineering craftsmanship.
 
 We welcome developers, designers, engineers, and technology enthusiasts who enjoy:
 
@@ -85,7 +85,7 @@ Have a system that needs rethinking, or an idea that needs a solid foundation? W
 
 <div align="center">
 
-**[zynocodex.tech](https://zycodex.tech)** · **[hello@zynocodex.dev](mailto:[hello@zynocodex.tech])**
+**[zynocoderslab.tech](https://zycodex.tech)** · **[hello@zynocoderslab.tech](mailto:[hello@zynocodex.tech])**
 
 </div>
 
@@ -99,6 +99,6 @@ Build systems. Solve problems. Engineer the future.
 
 <div align="center">
 
-<sub>ZynoCodex — architecture first, always.</sub>
+<sub>ZynoCoders Lab — architecture first, always.</sub>
 
 </div>
