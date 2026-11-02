@@ -5,8 +5,8 @@
 ### Build systems. Solve problems. Engineer the future.
 
 [![Website](https://img.shields.io/badge/Website-zynocoderslab.tech-4B5563?style=flat-square)](https://zynocodex.tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZynoCodex-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/zynocoderslab)
-[![X](https://img.shields.io/badge/X-%40zynocodex-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zynocoderslab)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ZynoCoderslab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/company/zynocoderslab)
+[![X](https://img.shields.io/badge/X-%40zynocoderslab-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/zynocoderslab)
 
 </div>
 
